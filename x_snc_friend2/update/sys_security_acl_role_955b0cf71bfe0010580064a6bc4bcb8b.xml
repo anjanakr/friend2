@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>anjana.krishnamurthi@snc</sys_created_by>
+        <sys_created_on>2020-02-12 20:17:51</sys_created_on>
+        <sys_id>955b0cf71bfe0010580064a6bc4bcb8b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_friend2_judge.x_snc_friend2.judge_user</sys_name>
+        <sys_package display_value="friend2" source="x_snc_friend2">37a7c8b31bfe0010580064a6bc4bcbbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="friend2">37a7c8b31bfe0010580064a6bc4bcbbe</sys_scope>
+        <sys_security_acl display_value="x_snc_friend2_judge">9d5b0cf71bfe0010580064a6bc4bcb85</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_955b0cf71bfe0010580064a6bc4bcb8b</sys_update_name>
+        <sys_updated_by>anjana.krishnamurthi@snc</sys_updated_by>
+        <sys_updated_on>2020-02-12 20:17:51</sys_updated_on>
+        <sys_user_role display_value="x_snc_friend2.judge_user" name="x_snc_friend2.judge_user">195bc8f71bfe0010580064a6bc4bcbb3</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
